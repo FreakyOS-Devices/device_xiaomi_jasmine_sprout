@@ -23,5 +23,10 @@
         "repository":   "device_xiaomi_wayne-common",
         "target_path":  "device/xiaomi/wayne-common",
         "branch":       "still_alive"
+    },
+    {
+        "repository":   "vendor_xiaomi_jasmine_sprout",
+        "target_path":  "vendor/xiaomi/jasmine_sprout",
+        "branch":       "still_alive"
     }
 ]
